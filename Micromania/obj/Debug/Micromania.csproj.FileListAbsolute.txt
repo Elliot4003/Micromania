@@ -1,0 +1,7 @@
+C:\Users\elliot.crozet\source\repos\Micromania\Micromania\obj\Debug\Micromania.csproj.AssemblyReference.cache
+C:\Users\elliot.crozet\source\repos\Micromania\Micromania\obj\Debug\Micromania.csproj.CoreCompileInputs.cache
+C:\Users\elliot.crozet\source\repos\Micromania\Micromania\bin\Debug\Micromania.exe.config
+C:\Users\elliot.crozet\source\repos\Micromania\Micromania\bin\Debug\Micromania.exe
+C:\Users\elliot.crozet\source\repos\Micromania\Micromania\bin\Debug\Micromania.pdb
+C:\Users\elliot.crozet\source\repos\Micromania\Micromania\obj\Debug\Micromania.exe
+C:\Users\elliot.crozet\source\repos\Micromania\Micromania\obj\Debug\Micromania.pdb
